@@ -9,7 +9,7 @@ Configuration based on [Razzle](https://github.com/jaredpalmer/razzle) and inspi
 
 ### Requirements
 
-* `node>=8`
+* `node>=8.10`
 * `yarn>=1.7`
 * `python` - to install virtualenv
 * See Dockerfile for other dependencies
@@ -32,7 +32,7 @@ We are using python's `virtualenv` to create independent project environments.
     
     Install newest `node` 8 version. You can check available version using command `nodeenv --list`
     
-    > nodeenv -p --prebuilt --node=8.9.4
+    > nodeenv -p --prebuilt --node=8.11.3
 
 1. Install project dependencies
 
