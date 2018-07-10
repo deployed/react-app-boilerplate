@@ -10,7 +10,7 @@ Configuration based on [Razzle](https://github.com/jaredpalmer/razzle) and inspi
 ### Requirements
 
 * `node>=8`
-* `yarn>=5`
+* `yarn>=1.7`
 * `python` - to install virtualenv
 * See Dockerfile for other dependencies
 
