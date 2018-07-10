@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFoundView /> match snapshot 1`] = `
+<React.Fragment>
+  <HelmetWrapper
+    defer={true}
+    encodeSpecialCharacters={true}
+  >
+    <meta
+      content="noindex, nofollow"
+      name="robots"
+    />
+  </HelmetWrapper>
+  <div>
+    404: Not Found View
+  </div>
+</React.Fragment>
+`;

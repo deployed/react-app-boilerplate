@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomeView /> match snapshot 1`] = `
+<React.Fragment>
+  <styles__Header>
+    <styles__ReactLogo />
+    <FormattedMessage
+      defaultMessage="Welcome to Deployed React App Boilerplate"
+      id="HomePage.header"
+      values={Object {}}
+    />
+  </styles__Header>
+</React.Fragment>
+`;
