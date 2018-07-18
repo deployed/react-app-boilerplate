@@ -104,3 +104,8 @@ npm run lint
 * [Express](https://expressjs.com/)
 * [Jest](https://jestjs.io/)
 * [Enzyme](https://github.com/airbnb/enzyme)
+
+
+## Documentation
+
+* [Table of Contents](docs/README.md)
